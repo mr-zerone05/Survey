@@ -1,0 +1,3 @@
+com\mycompany\survey\servlets\MyServlet.class
+com\mycompany\survey\JakartaRestConfiguration.class
+com\mycompany\survey\resources\JakartaEE11Resource.class
